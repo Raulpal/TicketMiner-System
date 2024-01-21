@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:46 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 448
+Customer Name: April Turner
+Customer Username: turnerapril
+Customer Password: Fun!23
+Available Money: 3160.339625
+Tickets Purchased: 3
+Has Membership: true
+Customer payed 3 tickets for $184.62037500000002
+EventID: 7
+Event Type: sport
+ Event Name: UTEP Football 7
+EventTime: 10/16/23 7:05 PM
+
+

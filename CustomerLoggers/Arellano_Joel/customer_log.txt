@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:46 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 248
+Customer Name: Joel Arellano
+Customer Username: arellanojoel
+Customer Password: Fun!23
+Available Money: 942.516275
+Tickets Purchased: 2
+Has Membership: false
+Customer payed 2 tickets for $104.493725
+EventID: 37
+Event Type: sport
+ Event Name: UTEP Basketball 24
+EventTime: 2/7/24 7:15 PM
+
+

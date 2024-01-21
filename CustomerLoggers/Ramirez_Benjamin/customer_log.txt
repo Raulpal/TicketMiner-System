@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 406
+Customer Name: Benjamin Ramirez
+Customer Username: ramirezbenjamin
+Customer Password: Fun!23
+Available Money: 3386.101825
+Tickets Purchased: 3
+Has Membership: true
+Customer payed 3 tickets for $278.408175
+EventID: 46
+Event Type: concert
+ Event Name: UTEP Wind Symphony 2
+EventTime: 1/21/24 6:00 PM
+
+

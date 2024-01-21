@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:46 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 754
+Customer Name: Jared Scott
+Customer Username: scottjared
+Customer Password: Fun!23
+Available Money: 2963.461275
+Tickets Purchased: 2
+Has Membership: true
+Customer payed 2 tickets for $72.018725
+EventID: 43
+Event Type: sport
+ Event Name: UTEP Basketball 30
+EventTime: 2/28/24 7:15 PM
+
+

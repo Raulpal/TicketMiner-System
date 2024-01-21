@@ -1,0 +1,18 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 946
+Customer Name: Kylie King
+Customer Username: kingkylie
+Customer Password: Fun!23
+Available Money: 3643.657125
+Tickets Purchased: 3
+Has Membership: true
+Customer payed 3 tickets for $155.392875
+EventID: 28
+Event Type: sport
+ Event Name: UTEP Basketball 15
+EventTime: 1/8/24 6:30 PM
+
+
+Nov 16, 2023 12:07:47 PM CustomerLogger logCouldNotAffordToFile
+INFO: Customer: Kylie, King could not afford to buy a ticket for event ID 64
+

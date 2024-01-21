@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 1021
+Customer Name: Carlos Lynch
+Customer Username: lynchcarlos
+Customer Password: Fun!23
+Available Money: 4451.369625
+Tickets Purchased: 3
+Has Membership: true
+Customer payed 3 tickets for $106.680375
+EventID: 30
+Event Type: sport
+ Event Name: UTEP Basketball 17
+EventTime: 1/15/24 6:30 PM
+
+

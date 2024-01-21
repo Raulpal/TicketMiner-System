@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 1028
+Customer Name: Tonya Elliott
+Customer Username: elliotttonya
+Customer Password: Fun!23
+Available Money: 6233.73715
+Tickets Purchased: 6
+Has Membership: true
+Customer payed 6 tickets for $210.63285000000002
+EventID: 1
+Event Type: sport
+ Event Name: UTEP Football 1
+EventTime: 9/4/23 7:05 PM
+
+

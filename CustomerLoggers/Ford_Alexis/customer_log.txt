@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 260
+Customer Name: Alexis Ford
+Customer Username: fordalexis
+Customer Password: Fun!23
+Available Money: 1313.4612750000001
+Tickets Purchased: 2
+Has Membership: true
+Customer payed 2 tickets for $1306.068725
+EventID: 66
+Event Type: festival
+ Event Name: Coachella 2
+EventTime: 12/9/23 9:00 AM
+
+

@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 743
+Customer Name: Christopher Underwood
+Customer Username: underwoodchristopher
+Customer Password: Fun!23
+Available Money: 3042.939625
+Tickets Purchased: 4
+Has Membership: true
+Customer payed 4 tickets for $180.290375
+EventID: 16
+Event Type: sport
+ Event Name: UTEP Basketball 3
+EventTime: 11/27/23 6:30 PM
+
+

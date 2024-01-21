@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 252
+Customer Name: Erik Case
+Customer Username: caseerik
+Customer Password: Fun!23
+Available Money: 784.2363
+Tickets Purchased: 6
+Has Membership: true
+Customer payed 6 tickets for $371.9037
+EventID: 54
+Event Type: concert
+ Event Name: UTEP Wind Symphony 10
+EventTime: 5/18/24 6:00 PM
+
+

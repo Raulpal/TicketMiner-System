@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 115
+Customer Name: Michael Sanchez
+Customer Username: sanchezmichael
+Customer Password: Fun!23
+Available Money: 2294.939625
+Tickets Purchased: 3
+Has Membership: false
+Customer payed 3 tickets for $184.62037500000002
+EventID: 5
+Event Type: sport
+ Event Name: UTEP Football 5
+EventTime: 10/2/23 7:05 PM
+
+

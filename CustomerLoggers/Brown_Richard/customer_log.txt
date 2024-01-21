@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:46 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 188
+Customer Name: Richard Brown
+Customer Username: brownrichard
+Customer Password: Fun!23
+Available Money: 4876.1612749999995
+Tickets Purchased: 2
+Has Membership: false
+Customer payed 2 tickets for $7.068725
+EventID: 70
+Event Type: festival
+ Event Name: UTEP Commencement 2
+EventTime: 1/25/24 2:00 PM
+
+

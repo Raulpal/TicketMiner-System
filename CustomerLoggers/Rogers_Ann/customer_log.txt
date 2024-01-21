@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 828
+Customer Name: Ann Rogers
+Customer Username: rogersann
+Customer Password: Fun!23
+Available Money: 3273.816275
+Tickets Purchased: 2
+Has Membership: true
+Customer payed 2 tickets for $143.463725
+EventID: 20
+Event Type: sport
+ Event Name: UTEP Basketball 7
+EventTime: 12/11/23 6:30 PM
+
+

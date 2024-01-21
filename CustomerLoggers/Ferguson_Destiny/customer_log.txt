@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 242
+Customer Name: Destiny Ferguson
+Customer Username: fergusondestiny
+Customer Password: Fun!23
+Available Money: 4690.085475
+Tickets Purchased: 5
+Has Membership: false
+Customer payed 5 tickets for $224.694525
+EventID: 25
+Event Type: sport
+ Event Name: UTEP Basketball 12
+EventTime: 12/27/23 7:15 PM
+
+

@@ -1,0 +1,30 @@
+Nov 16, 2023 12:07:46 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 733
+Customer Name: Joshua Hickman
+Customer Username: hickmanjoshua
+Customer Password: Fun!23
+Available Money: 2530.809625
+Tickets Purchased: 4
+Has Membership: false
+Customer payed 4 tickets for $284.210375
+EventID: 27
+Event Type: sport
+ Event Name: UTEP Basketball 14
+EventTime: 1/3/24 7:15 PM
+
+
+Nov 16, 2023 12:07:46 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 733
+Customer Name: Joshua Hickman
+Customer Username: hickmanjoshua
+Customer Password: Fun!23
+Available Money: 2285.56925
+Tickets Purchased: 8
+Has Membership: false
+Customer payed 4 tickets for $245.24037500000003
+EventID: 7
+Event Type: sport
+ Event Name: UTEP Football 7
+EventTime: 10/16/23 7:05 PM
+
+

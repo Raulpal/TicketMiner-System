@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:46 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 926
+Customer Name: Lisa Jackson
+Customer Username: jacksonlisa
+Customer Password: Fun!23
+Available Money: 1032.369225
+Tickets Purchased: 4
+Has Membership: false
+Customer payed 4 tickets for $149.46077499999998
+EventID: 53
+Event Type: concert
+ Event Name: UTEP Wind Symphony 9
+EventTime: 10/17/23 6:00 PM
+
+

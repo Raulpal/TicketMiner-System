@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 804
+Customer Name: Debra Raymond
+Customer Username: raymonddebra
+Customer Password: Fun!23
+Available Money: 2001.5596249999999
+Tickets Purchased: 4
+Has Membership: false
+Customer payed 4 tickets for $180.290375
+EventID: 21
+Event Type: sport
+ Event Name: UTEP Basketball 8
+EventTime: 12/13/23 7:15 PM
+
+

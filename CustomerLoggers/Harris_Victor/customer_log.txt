@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:46 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 726
+Customer Name: Victor Harris
+Customer Username: harrisvictor
+Customer Password: Fun!23
+Available Money: 5505.4679750000005
+Tickets Purchased: 5
+Has Membership: true
+Customer payed 5 tickets for $305.882025
+EventID: 31
+Event Type: sport
+ Event Name: UTEP Basketball 18
+EventTime: 1/17/24 7:15 PM
+
+

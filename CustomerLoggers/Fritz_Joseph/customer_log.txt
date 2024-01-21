@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 832
+Customer Name: Joseph Fritz
+Customer Username: fritzjoseph
+Customer Password: Fun!23
+Available Money: 4746.889625
+Tickets Purchased: 4
+Has Membership: true
+Customer payed 4 tickets for $206.27037500000003
+EventID: 27
+Event Type: sport
+ Event Name: UTEP Basketball 14
+EventTime: 1/3/24 7:15 PM
+
+

@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 892
+Customer Name: Mark Washington
+Customer Username: washingtonmark
+Customer Password: Fun!23
+Available Money: 5706.8871500000005
+Tickets Purchased: 6
+Has Membership: true
+Customer payed 6 tickets for $210.63285000000002
+EventID: 26
+Event Type: sport
+ Event Name: UTEP Basketball 13
+EventTime: 1/1/24 6:30 PM
+
+

@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 307
+Customer Name: Stephen Villegas
+Customer Username: villegasstephen
+Customer Password: Fun!23
+Available Money: 3085.804325
+Tickets Purchased: 2
+Has Membership: true
+Customer payed 2 tickets for $125.77567499999999
+EventID: 56
+Event Type: concert
+ Event Name: UTEP Wind Symphony 12
+EventTime: 11/27/23 6:00 PM
+
+

@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 442
+Customer Name: Kristina Patrick
+Customer Username: patrickkristina
+Customer Password: Fun!23
+Available Money: 3933.3242000000005
+Tickets Purchased: 3
+Has Membership: false
+Customer payed 3 tickets for $187.31580000000002
+EventID: 52
+Event Type: concert
+ Event Name: UTEP Wind Symphony 8
+EventTime: 3/26/24 6:00 PM
+
+

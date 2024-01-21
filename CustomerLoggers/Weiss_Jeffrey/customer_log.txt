@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 144
+Customer Name: Jeffrey Weiss
+Customer Username: weissjeffrey
+Customer Password: Fun!23
+Available Money: 3486.029625
+Tickets Purchased: 4
+Has Membership: true
+Customer payed 4 tickets for $180.290375
+EventID: 14
+Event Type: sport
+ Event Name: UTEP Basketball 1
+EventTime: 11/20/23 6:30 PM
+
+

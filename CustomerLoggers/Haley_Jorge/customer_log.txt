@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:46 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 730
+Customer Name: Jorge Haley
+Customer Username: haleyjorge
+Customer Password: Fun!23
+Available Money: 4459.771275
+Tickets Purchased: 2
+Has Membership: true
+Customer payed 2 tickets for $123.978725
+EventID: 5
+Event Type: sport
+ Event Name: UTEP Football 5
+EventTime: 10/2/23 7:05 PM
+
+

@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 627
+Customer Name: Tyler Baxter
+Customer Username: baxtertyler
+Customer Password: Fun!23
+Available Money: 5909.836275
+Tickets Purchased: 2
+Has Membership: false
+Customer payed 2 tickets for $104.493725
+EventID: 23
+Event Type: sport
+ Event Name: UTEP Basketball 10
+EventTime: 12/20/23 7:15 PM
+
+

@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:46 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 212
+Customer Name: Mark Lozano
+Customer Username: lozanomark
+Customer Password: Fun!23
+Available Money: 6105.03215
+Tickets Purchased: 6
+Has Membership: true
+Customer payed 6 tickets for $308.05785
+EventID: 37
+Event Type: sport
+ Event Name: UTEP Basketball 24
+EventTime: 2/7/24 7:15 PM
+
+

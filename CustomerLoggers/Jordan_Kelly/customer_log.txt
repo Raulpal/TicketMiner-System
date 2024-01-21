@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:46 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 732
+Customer Name: Kelly Jordan
+Customer Username: jordankelly
+Customer Password: Fun!23
+Available Money: 5154.429625
+Tickets Purchased: 4
+Has Membership: false
+Customer payed 4 tickets for $141.320375
+EventID: 21
+Event Type: sport
+ Event Name: UTEP Basketball 8
+EventTime: 12/13/23 7:15 PM
+
+

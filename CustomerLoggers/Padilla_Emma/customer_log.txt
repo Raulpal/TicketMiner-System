@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 439
+Customer Name: Emma Padilla
+Customer Username: padillaemma
+Customer Password: Fun!23
+Available Money: 5844.395724999999
+Tickets Purchased: 4
+Has Membership: true
+Customer payed 4 tickets for $248.83427500000002
+EventID: 53
+Event Type: concert
+ Event Name: UTEP Wind Symphony 9
+EventTime: 10/17/23 6:00 PM
+
+

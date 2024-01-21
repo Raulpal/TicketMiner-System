@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 1032
+Customer Name: Kristen Martinez
+Customer Username: martinezkristen
+Customer Password: Fun!23
+Available Money: 4424.367975
+Tickets Purchased: 5
+Has Membership: false
+Customer payed 5 tickets for $305.882025
+EventID: 19
+Event Type: sport
+ Event Name: UTEP Basketball 6
+EventTime: 12/6/23 7:15 PM
+
+

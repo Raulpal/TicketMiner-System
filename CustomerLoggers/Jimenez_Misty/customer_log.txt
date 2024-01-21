@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 578
+Customer Name: Misty Jimenez
+Customer Username: jimenezmisty
+Customer Password: Fun!23
+Available Money: 2912.8212750000002
+Tickets Purchased: 2
+Has Membership: true
+Customer payed 2 tickets for $123.978725
+EventID: 2
+Event Type: sport
+ Event Name: UTEP Football 2
+EventTime: 9/11/23 7:05 PM
+
+

@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 398
+Customer Name: Anthony Hardin
+Customer Username: hardinanthony
+Customer Password: Fun!23
+Available Money: 5968.16215
+Tickets Purchased: 6
+Has Membership: true
+Customer payed 6 tickets for $308.05785
+EventID: 21
+Event Type: sport
+ Event Name: UTEP Basketball 8
+EventTime: 12/13/23 7:15 PM
+
+

@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:46 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 793
+Customer Name: Patrick Bennett
+Customer Username: bennettpatrick
+Customer Password: Fun!23
+Available Money: 3010.669625
+Tickets Purchased: 4
+Has Membership: false
+Customer payed 4 tickets for $180.290375
+EventID: 40
+Event Type: sport
+ Event Name: UTEP Basketball 27
+EventTime: 2/19/24 6:30 PM
+
+

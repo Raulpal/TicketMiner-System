@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:46 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 160
+Customer Name: Victoria Martin
+Customer Username: martinvictoria
+Customer Password: Fun!23
+Available Money: 4429.710475
+Tickets Purchased: 5
+Has Membership: true
+Customer payed 5 tickets for $257.169525
+EventID: 20
+Event Type: sport
+ Event Name: UTEP Basketball 7
+EventTime: 12/11/23 6:30 PM
+
+

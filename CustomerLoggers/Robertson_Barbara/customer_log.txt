@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 261
+Customer Name: Barbara Robertson
+Customer Username: robertsonbarbara
+Customer Password: Fun!23
+Available Money: 3018.02715
+Tickets Purchased: 6
+Has Membership: false
+Customer payed 6 tickets for $210.63285000000002
+EventID: 13
+Event Type: sport
+ Event Name: UTEP Football 13
+EventTime: 11/27/23 7:05 PM
+
+

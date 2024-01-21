@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:46 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 395
+Customer Name: Michele Cummings
+Customer Username: cummingsmichele
+Customer Password: Fun!23
+Available Money: 5638.332125
+Tickets Purchased: 3
+Has Membership: true
+Customer payed 3 tickets for $213.84787500000002
+EventID: 1
+Event Type: sport
+ Event Name: UTEP Football 1
+EventTime: 9/4/23 7:05 PM
+
+

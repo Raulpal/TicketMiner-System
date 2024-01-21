@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 899
+Customer Name: Lauren Coleman
+Customer Username: colemanlauren
+Customer Password: Fun!23
+Available Money: 1925.2318249999998
+Tickets Purchased: 3
+Has Membership: false
+Customer payed 3 tickets for $278.408175
+EventID: 45
+Event Type: concert
+ Event Name: UTEP Wind Symphony 1
+EventTime: 10/10/23 6:00 PM
+
+

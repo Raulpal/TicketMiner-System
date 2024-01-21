@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:46 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 825
+Customer Name: Jennifer Jones
+Customer Username: jonesjennifer
+Customer Password: Fun!23
+Available Money: 3565.7996249999997
+Tickets Purchased: 4
+Has Membership: false
+Customer payed 4 tickets for $141.320375
+EventID: 4
+Event Type: sport
+ Event Name: UTEP Football 4
+EventTime: 9/25/23 7:05 PM
+
+

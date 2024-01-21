@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:46 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 729
+Customer Name: Carmen Hays
+Customer Username: hayscarmen
+Customer Password: Fun!23
+Available Money: 1602.376275
+Tickets Purchased: 2
+Has Membership: false
+Customer payed 2 tickets for $91.503725
+EventID: 1
+Event Type: sport
+ Event Name: UTEP Football 1
+EventTime: 9/4/23 7:05 PM
+
+

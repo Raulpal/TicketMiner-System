@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 942
+Customer Name: Dennis Cooper
+Customer Username: cooperdennis
+Customer Password: Fun!23
+Available Money: 5473.154399999999
+Tickets Purchased: 6
+Has Membership: false
+Customer payed 6 tickets for $330.46560000000005
+EventID: 51
+Event Type: concert
+ Event Name: UTEP Wind Symphony 7
+EventTime: 3/22/24 6:00 PM
+
+

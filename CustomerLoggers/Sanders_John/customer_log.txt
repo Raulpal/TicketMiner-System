@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 1024
+Customer Name: John Sanders
+Customer Username: sandersjohn
+Customer Password: Fun!23
+Available Money: 3756.19215
+Tickets Purchased: 6
+Has Membership: false
+Customer payed 6 tickets for $424.96785
+EventID: 6
+Event Type: sport
+ Event Name: UTEP Football 6
+EventTime: 10/9/23 7:05 PM
+
+

@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 598
+Customer Name: Jeff Ray
+Customer Username: rayjeff
+Customer Password: Fun!23
+Available Money: 2904.6479750000003
+Tickets Purchased: 5
+Has Membership: false
+Customer payed 5 tickets for $305.882025
+EventID: 34
+Event Type: sport
+ Event Name: UTEP Basketball 21
+EventTime: 1/29/24 6:30 PM
+
+

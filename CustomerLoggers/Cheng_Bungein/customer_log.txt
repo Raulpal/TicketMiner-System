@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:46 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 50
+Customer Name: Bungein Cheng
+Customer Username: chengbungein
+Customer Password: Fun!23
+Available Money: 2950.479625
+Tickets Purchased: 3
+Has Membership: true
+Customer payed 3 tickets for $106.680375
+EventID: 13
+Event Type: sport
+ Event Name: UTEP Football 13
+EventTime: 11/27/23 7:05 PM
+
+

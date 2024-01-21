@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 275
+Customer Name: William Hunter
+Customer Username: hunterwilliam
+Customer Password: Fun!23
+Available Money: 993.5836
+Tickets Purchased: 5
+Has Membership: true
+Customer payed 5 tickets for $82.6164
+EventID: 51
+Event Type: concert
+ Event Name: UTEP Wind Symphony 7
+EventTime: 3/22/24 6:00 PM
+
+

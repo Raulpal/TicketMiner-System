@@ -1,0 +1,48 @@
+Nov 16, 2023 12:20:30 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 79
+Customer Name: Raul Pallares
+Customer Username: pallaresraul
+Customer Password: Fun!23
+Available Money: 3148.436275
+Tickets Purchased: 2
+Has Membership: true
+Customer payed 2 tickets for $143.463725
+EventID: 13
+Event Type: sport
+ Event Name: UTEP Football 13
+EventTime: 11/27/23 7:05 PM
+
+
+Nov 16, 2023 6:05:07 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 79
+Customer Name: Raul Pallares
+Customer Username: pallaresraul
+Customer Password: Fun!23
+Available Money: 3148.436275
+Tickets Purchased: 2
+Has Membership: true
+Customer payed 2 tickets for $143.463725
+EventID: 13
+Event Type: sport
+ Event Name: UTEP Football 13
+EventTime: 11/27/23 7:05 PM
+
+
+Nov 18, 2023 11:14:14 AM CustomerLogger logViewing
+INFO: Raul Pallares viewed event ID 13
+
+Nov 18, 2023 11:14:20 AM CustomerLogger logSuccessfulTransaction
+INFO: ID: 79
+Customer Name: Raul Pallares
+Customer Username: pallaresraul
+Customer Password: Fun!23
+Available Money: 3098.511375
+Tickets Purchased: 3
+Has Membership: true
+Customer payed 3 tickets for $193.38862500000002
+EventID: 13
+Event Type: sport
+ Event Name: UTEP Football 13
+EventTime: 11/27/23 7:05 PM
+
+

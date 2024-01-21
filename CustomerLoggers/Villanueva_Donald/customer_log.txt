@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 928
+Customer Name: Donald Villanueva
+Customer Username: villanuevadonald
+Customer Password: Fun!23
+Available Money: 2735.887125
+Tickets Purchased: 3
+Has Membership: false
+Customer payed 3 tickets for $155.392875
+EventID: 39
+Event Type: sport
+ Event Name: UTEP Basketball 26
+EventTime: 2/14/24 7:15 PM
+
+

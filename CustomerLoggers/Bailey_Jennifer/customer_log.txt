@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 747
+Customer Name: Jennifer Bailey
+Customer Username: baileyjennifer
+Customer Password: Fun!23
+Available Money: 5325.159625
+Tickets Purchased: 4
+Has Membership: false
+Customer payed 4 tickets for $206.27037500000003
+EventID: 33
+Event Type: sport
+ Event Name: UTEP Basketball 20
+EventTime: 1/24/24 7:15 PM
+
+

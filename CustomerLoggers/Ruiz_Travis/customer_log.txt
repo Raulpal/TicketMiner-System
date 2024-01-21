@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 386
+Customer Name: Travis Ruiz
+Customer Username: ruiztravis
+Customer Password: Fun!23
+Available Money: 5384.40215
+Tickets Purchased: 6
+Has Membership: true
+Customer payed 6 tickets for $269.08785
+EventID: 22
+Event Type: sport
+ Event Name: UTEP Basketball 9
+EventTime: 12/18/23 6:30 PM
+
+

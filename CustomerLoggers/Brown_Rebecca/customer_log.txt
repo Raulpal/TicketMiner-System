@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 444
+Customer Name: Rebecca Brown
+Customer Username: brownrebecca
+Customer Password: Fun!23
+Available Money: 2724.879625
+Tickets Purchased: 4
+Has Membership: true
+Customer payed 4 tickets for $180.290375
+EventID: 43
+Event Type: sport
+ Event Name: UTEP Basketball 30
+EventTime: 2/28/24 7:15 PM
+
+

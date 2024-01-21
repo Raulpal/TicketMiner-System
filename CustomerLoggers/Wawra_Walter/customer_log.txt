@@ -1,0 +1,291 @@
+Nov 16, 2023 12:20:30 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 96
+Customer Name: Walter Wawra
+Customer Username: wawrawalter
+Customer Password: Fun!23
+Available Money: 2571.0282250000005
+Tickets Purchased: 1
+Has Membership: false
+Customer payed 1 tickets for $3135.861775
+EventID: 61
+Event Type: concert
+ Event Name: RBD Live
+EventTime: 9/27/23 7:15 PM
+
+
+Nov 16, 2023 12:46:15 PM CustomerLogger logViewing
+INFO: Walter Wawra viewed event ID 1
+
+Nov 16, 2023 3:37:24 PM CustomerLogger logViewing
+INFO: Walter Wawra viewed event ID 1
+
+Nov 16, 2023 3:37:28 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 96
+Customer Name: Walter Wawra
+Customer Username: wawrawalter
+Customer Password: Fun!23
+Available Money: 5659.779600000001
+Tickets Purchased: 1
+Has Membership: false
+Customer payed 1 tickets for $47.1104
+EventID: 1
+Event Type: sport
+ Event Name: UTEP Football 1
+EventTime: 9/4/23 7:05 PM
+
+
+Nov 16, 2023 5:38:38 PM CustomerLogger logViewing
+INFO: Walter Wawra viewed event ID 1
+
+Nov 16, 2023 5:38:40 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 96
+Customer Name: Walter Wawra
+Customer Username: wawrawalter
+Customer Password: Fun!23
+Available Money: 5633.7996
+Tickets Purchased: 1
+Has Membership: false
+Customer payed 1 tickets for $73.0904
+EventID: 1
+Event Type: sport
+ Event Name: UTEP Football 1
+EventTime: 9/4/23 7:05 PM
+
+
+Nov 16, 2023 5:39:56 PM CustomerLogger logViewing
+INFO: Walter Wawra viewed event ID 10
+
+Nov 16, 2023 5:40:01 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 96
+Customer Name: Walter Wawra
+Customer Username: wawrawalter
+Customer Password: Fun!23
+Available Money: 5560.7092
+Tickets Purchased: 2
+Has Membership: false
+Customer payed 1 tickets for $73.0904
+EventID: 10
+Event Type: sport
+ Event Name: UTEP Football 10
+EventTime: 11/6/23 7:05 PM
+
+
+Nov 16, 2023 5:57:26 PM CustomerLogger logViewing
+INFO: Walter Wawra viewed event ID 1
+
+Nov 16, 2023 5:57:28 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 96
+Customer Name: Walter Wawra
+Customer Username: wawrawalter
+Customer Password: Fun!23
+Available Money: 5633.7996
+Tickets Purchased: 1
+Has Membership: false
+Customer payed 1 tickets for $73.0904
+EventID: 1
+Event Type: sport
+ Event Name: UTEP Football 1
+EventTime: 9/4/23 7:05 PM
+
+
+Nov 16, 2023 5:58:29 PM CustomerLogger logViewing
+INFO: Walter Wawra viewed event ID 1
+
+Nov 16, 2023 5:58:30 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 96
+Customer Name: Walter Wawra
+Customer Username: wawrawalter
+Customer Password: Fun!23
+Available Money: 5633.7996
+Tickets Purchased: 1
+Has Membership: false
+Customer payed 1 tickets for $73.0904
+EventID: 1
+Event Type: sport
+ Event Name: UTEP Football 1
+EventTime: 9/4/23 7:05 PM
+
+
+Nov 16, 2023 5:58:51 PM CustomerLogger logViewing
+INFO: Walter Wawra viewed event ID 10
+
+Nov 16, 2023 5:58:53 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 96
+Customer Name: Walter Wawra
+Customer Username: wawrawalter
+Customer Password: Fun!23
+Available Money: 5623.7092
+Tickets Purchased: 2
+Has Membership: false
+Customer payed 1 tickets for $73.0904
+EventID: 10
+Event Type: sport
+ Event Name: UTEP Football 10
+EventTime: 11/6/23 7:05 PM
+
+
+Nov 16, 2023 6:01:22 PM CustomerLogger logViewing
+INFO: Walter Wawra viewed event ID 1
+
+Nov 16, 2023 6:01:25 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 96
+Customer Name: Walter Wawra
+Customer Username: wawrawalter
+Customer Password: Fun!23
+Available Money: 5633.7996
+Tickets Purchased: 1
+Has Membership: false
+Customer payed 1 tickets for $73.0904
+EventID: 1
+Event Type: sport
+ Event Name: UTEP Football 1
+EventTime: 9/4/23 7:05 PM
+
+
+Nov 16, 2023 6:01:49 PM CustomerLogger logViewing
+INFO: Walter Wawra viewed event ID 1
+
+Nov 16, 2023 6:01:51 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 96
+Customer Name: Walter Wawra
+Customer Username: wawrawalter
+Customer Password: Fun!23
+Available Money: 5623.7092
+Tickets Purchased: 2
+Has Membership: false
+Customer payed 1 tickets for $73.0904
+EventID: 1
+Event Type: sport
+ Event Name: UTEP Football 1
+EventTime: 9/4/23 7:05 PM
+
+
+Nov 16, 2023 6:05:07 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 96
+Customer Name: Walter Wawra
+Customer Username: wawrawalter
+Customer Password: Fun!23
+Available Money: 2571.0282250000005
+Tickets Purchased: 1
+Has Membership: false
+Customer payed 1 tickets for $3135.861775
+EventID: 61
+Event Type: concert
+ Event Name: RBD Live
+EventTime: 9/27/23 7:15 PM
+
+
+Nov 17, 2023 6:29:24 PM CustomerLogger logViewing
+INFO: Walter Wawra viewed event ID 1
+
+Nov 17, 2023 6:29:27 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 96
+Customer Name: Walter Wawra
+Customer Username: wawrawalter
+Customer Password: Fun!23
+Available Money: 5633.7996
+Tickets Purchased: 1
+Has Membership: false
+Customer payed 1 tickets for $73.0904
+EventID: 1
+Event Type: sport
+ Event Name: UTEP Football 1
+EventTime: 9/4/23 7:05 PM
+
+
+Nov 17, 2023 6:32:58 PM CustomerLogger logViewing
+INFO: Walter Wawra viewed event ID 1
+
+Nov 17, 2023 6:33:00 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 96
+Customer Name: Walter Wawra
+Customer Username: wawrawalter
+Customer Password: Fun!23
+Available Money: 5633.7996
+Tickets Purchased: 1
+Has Membership: false
+Customer payed 1 tickets for $73.0904
+EventID: 1
+Event Type: sport
+ Event Name: UTEP Football 1
+EventTime: 9/4/23 7:05 PM
+
+
+Nov 17, 2023 6:55:37 PM CustomerLogger logViewing
+INFO: Walter Wawra viewed event ID 1
+
+Nov 17, 2023 6:59:21 PM CustomerLogger logViewing
+INFO: Walter Wawra viewed event ID 1
+
+Nov 18, 2023 10:50:24 AM CustomerLogger logViewing
+INFO: Walter Wawra viewed event ID 45
+
+Nov 18, 2023 10:53:13 AM CustomerLogger logSuccessfulTransaction
+INFO: ID: 96
+Customer Name: Walter Wawra
+Customer Username: wawrawalter
+Customer Password: Fun!23
+Available Money: 5612.279500000001
+Tickets Purchased: 1
+Has Membership: false
+Customer payed 1 tickets for $94.61049999999999
+EventID: 45
+Event Type: concert
+ Event Name: UTEP Wind Symphony 1
+EventTime: 10/10/23 6:00 PM
+
+
+Nov 18, 2023 10:55:48 AM CustomerLogger logViewing
+INFO: Walter Wawra viewed event ID 45
+
+Nov 18, 2023 10:55:50 AM CustomerLogger logSuccessfulTransaction
+INFO: ID: 96
+Customer Name: Walter Wawra
+Customer Username: wawrawalter
+Customer Password: Fun!23
+Available Money: 5612.279500000001
+Tickets Purchased: 1
+Has Membership: false
+Customer payed 1 tickets for $94.61049999999999
+EventID: 45
+Event Type: concert
+ Event Name: UTEP Wind Symphony 1
+EventTime: 10/10/23 6:00 PM
+
+
+Nov 18, 2023 11:13:46 AM CustomerLogger logViewing
+INFO: Walter Wawra viewed event ID 13
+
+Nov 18, 2023 11:13:51 AM CustomerLogger logSuccessfulTransaction
+INFO: ID: 96
+Customer Name: Walter Wawra
+Customer Username: wawrawalter
+Customer Password: Fun!23
+Available Money: 5563.426275000001
+Tickets Purchased: 2
+Has Membership: false
+Customer payed 2 tickets for $143.463725
+EventID: 13
+Event Type: sport
+ Event Name: UTEP Football 13
+EventTime: 11/27/23 7:05 PM
+
+
+Nov 24, 2023 3:43:32 PM main.CustomerLogger logViewing
+INFO: Walter Wawra viewed event ID 2
+
+Nov 24, 2023 3:43:35 PM main.CustomerLogger logSuccessfulTransaction
+INFO: ID: 96
+Customer Name: Walter Wawra
+Customer Username: wawrawalter
+Customer Password: Fun!23
+Available Money: 5633.7996
+Tickets Purchased: 1
+Has Membership: false
+Customer payed 1 tickets for $73.0904
+EventID: 2
+Event Type: sport
+ Event Name: UTEP Football 2
+EventTime: 9/11/23 7:05 PM
+
+

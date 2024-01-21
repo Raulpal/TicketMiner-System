@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 920
+Customer Name: Deanna Cummings
+Customer Username: cummingsdeanna
+Customer Password: Fun!23
+Available Money: 5257.282125
+Tickets Purchased: 3
+Has Membership: false
+Customer payed 3 tickets for $213.84787500000002
+EventID: 44
+Event Type: sport
+ Event Name: UTEP Basketball 31
+EventTime: 3/4/24 6:30 PM
+
+

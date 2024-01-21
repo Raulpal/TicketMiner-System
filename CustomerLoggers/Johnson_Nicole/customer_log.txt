@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 425
+Customer Name: Nicole Johnson
+Customer Username: johnsonnicole
+Customer Password: Fun!23
+Available Money: 4327.510475
+Tickets Purchased: 5
+Has Membership: false
+Customer payed 5 tickets for $257.169525
+EventID: 23
+Event Type: sport
+ Event Name: UTEP Basketball 10
+EventTime: 12/20/23 7:15 PM
+
+

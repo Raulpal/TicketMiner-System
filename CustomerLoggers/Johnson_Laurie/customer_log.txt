@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:46 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 863
+Customer Name: Laurie Johnson
+Customer Username: johnsonlaurie
+Customer Password: Fun!23
+Available Money: 3692.749625
+Tickets Purchased: 3
+Has Membership: false
+Customer payed 3 tickets for $184.62037500000002
+EventID: 42
+Event Type: sport
+ Event Name: UTEP Basketball 29
+EventTime: 2/26/24 6:30 PM
+
+

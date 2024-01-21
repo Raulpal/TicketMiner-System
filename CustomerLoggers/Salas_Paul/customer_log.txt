@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 1000
+Customer Name: Paul Salas
+Customer Username: salaspaul
+Customer Password: Fun!23
+Available Money: 3528.774625
+Tickets Purchased: 3
+Has Membership: false
+Customer payed 3 tickets for $9.255375
+EventID: 70
+Event Type: festival
+ Event Name: UTEP Commencement 2
+EventTime: 1/25/24 2:00 PM
+
+

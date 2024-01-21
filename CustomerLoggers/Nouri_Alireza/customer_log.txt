@@ -1,0 +1,30 @@
+Nov 16, 2023 12:20:30 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 38
+Customer Name: Alireza Nouri
+Customer Username: alirezanouri
+Customer Password: Fun!23
+Available Money: 599.1605
+Tickets Purchased: 1
+Has Membership: true
+Customer payed 1 tickets for $4495.1895
+EventID: 57
+Event Type: concert
+ Event Name: Taylor Swift Live
+EventTime: 11/4/23 8:00 PM
+
+
+Nov 16, 2023 6:05:07 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 38
+Customer Name: Alireza Nouri
+Customer Username: alirezanouri
+Customer Password: Fun!23
+Available Money: 599.1605
+Tickets Purchased: 1
+Has Membership: true
+Customer payed 1 tickets for $4495.1895
+EventID: 57
+Event Type: concert
+ Event Name: Taylor Swift Live
+EventTime: 11/4/23 8:00 PM
+
+

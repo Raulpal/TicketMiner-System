@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 735
+Customer Name: Nathan Thompson
+Customer Username: thompsonnathan
+Customer Password: Fun!23
+Available Money: 1243.761275
+Tickets Purchased: 2
+Has Membership: false
+Customer payed 2 tickets for $123.978725
+EventID: 34
+Event Type: sport
+ Event Name: UTEP Basketball 21
+EventTime: 1/29/24 6:30 PM
+
+

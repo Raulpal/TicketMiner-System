@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:46 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 904
+Customer Name: Amy Morse
+Customer Username: morseamy
+Customer Password: Fun!23
+Available Money: 1130.091275
+Tickets Purchased: 2
+Has Membership: true
+Customer payed 2 tickets for $123.978725
+EventID: 10
+Event Type: sport
+ Event Name: UTEP Football 10
+EventTime: 11/6/23 7:05 PM
+
+

@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 488
+Customer Name: Kelly Bell
+Customer Username: bellkelly
+Customer Password: Fun!23
+Available Money: 2308.0096249999997
+Tickets Purchased: 4
+Has Membership: false
+Customer payed 4 tickets for $141.320375
+EventID: 40
+Event Type: sport
+ Event Name: UTEP Basketball 27
+EventTime: 2/19/24 6:30 PM
+
+

@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 977
+Customer Name: Amy Fuller
+Customer Username: fulleramy
+Customer Password: Fun!23
+Available Money: 6052.269625
+Tickets Purchased: 4
+Has Membership: false
+Customer payed 4 tickets for $206.27037500000003
+EventID: 27
+Event Type: sport
+ Event Name: UTEP Basketball 14
+EventTime: 1/3/24 7:15 PM
+
+

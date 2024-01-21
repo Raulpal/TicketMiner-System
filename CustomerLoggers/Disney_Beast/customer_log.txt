@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 20
+Customer Name: Beast Disney
+Customer Username: beastdisney
+Customer Password: Fun!23
+Available Money: 4862.02715
+Tickets Purchased: 6
+Has Membership: false
+Customer payed 6 tickets for $366.51285
+EventID: 44
+Event Type: sport
+ Event Name: UTEP Basketball 31
+EventTime: 3/4/24 6:30 PM
+
+

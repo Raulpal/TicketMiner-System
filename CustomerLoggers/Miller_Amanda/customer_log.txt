@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 216
+Customer Name: Amanda Miller
+Customer Username: milleramanda
+Customer Password: Fun!23
+Available Money: 2320.007525
+Tickets Purchased: 2
+Has Membership: true
+Customer payed 2 tickets for $34.672475
+EventID: 45
+Event Type: concert
+ Event Name: UTEP Wind Symphony 1
+EventTime: 10/10/23 6:00 PM
+
+

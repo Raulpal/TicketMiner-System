@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 559
+Customer Name: Kimberly Johnson
+Customer Username: johnsonkimberly
+Customer Password: Fun!23
+Available Money: 2084.2279750000002
+Tickets Purchased: 5
+Has Membership: false
+Customer payed 5 tickets for $175.982025
+EventID: 2
+Event Type: sport
+ Event Name: UTEP Football 2
+EventTime: 9/11/23 7:05 PM
+
+

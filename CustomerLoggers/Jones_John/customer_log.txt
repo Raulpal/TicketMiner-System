@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 739
+Customer Name: John Jones
+Customer Username: jonesjohn
+Customer Password: Fun!23
+Available Money: 6405.484625
+Tickets Purchased: 3
+Has Membership: true
+Customer payed 3 tickets for $9.255375
+EventID: 68
+Event Type: festival
+ Event Name: Minerpalooza
+EventTime: 5/21/24 6:00 PM
+
+

@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 811
+Customer Name: George Proctor
+Customer Username: proctorgeorge
+Customer Password: Fun!23
+Available Money: 1922.939625
+Tickets Purchased: 4
+Has Membership: false
+Customer payed 4 tickets for $206.27037500000003
+EventID: 23
+Event Type: sport
+ Event Name: UTEP Basketball 10
+EventTime: 12/20/23 7:15 PM
+
+

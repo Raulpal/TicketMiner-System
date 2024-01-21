@@ -1,0 +1,15 @@
+Nov 16, 2023 12:07:47 PM CustomerLogger logSuccessfulTransaction
+INFO: ID: 42
+Customer Name: Cesar Alvarez
+Customer Username: alvarezcesar
+Customer Password: Fun!23
+Available Money: 4857.642125
+Tickets Purchased: 3
+Has Membership: false
+Customer payed 3 tickets for $135.907875
+EventID: 35
+Event Type: sport
+ Event Name: UTEP Basketball 22
+EventTime: 1/31/24 7:15 PM
+
+
